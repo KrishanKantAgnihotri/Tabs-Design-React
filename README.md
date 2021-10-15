@@ -1,3 +1,3 @@
 #### IN ACTION
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+[Netlify](https://tabs-design-react-kk.netlify.app/)
